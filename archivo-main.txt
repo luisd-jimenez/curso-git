@@ -4,3 +4,5 @@ Commit + add
 Nuevos comentarios
 Nuevas tareas
 Nuevas reglas
+Nuevas funcionalidades
+
