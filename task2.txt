@@ -1,1 +1,3 @@
 Hola desde task2
+se desarrolla nueva funcionalidad
+se coorirge bug!!
